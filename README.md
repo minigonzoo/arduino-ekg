@@ -5,6 +5,18 @@ EKG Modul die Werte auslesen könnt. Diese werden dann anschaulich gemacht.
 
 Der Port muss COM6 sein!!!
 
+## <span style="color: blue; font-weight: bold;">Windows-Sicherheit</span>
+
+Dadurch, dass ich kein Code Signing Zertifikat dafür kaufen werde, werdet ihr beim Ausführen die Mitteilung bekommen, dass euer Computer von Windows geschützt wurde.
+### <span style="color: blue; font-weight: bold;">Trotzdem ausführen</span>
+
+Beim Start kommt:
+- „Der Computer wurde durch Windows geschützt“
+
+- Klick auf „Weitere Informationen“
+
+- Dann auf „Trotzdem ausführen“
+
 # EKG-Visualisierungsprogramm
 
 Dieses Python-Programm visualisiert EKG-Daten, die über einen Arduino (via COM-Port) übertragen werden. Es bietet Funktionen zur Patienteneingabe, Rhythmusanalyse, akustischen/visuellen Warnungen und Speicherung von Aufnahmen als PNG-Dateien.
