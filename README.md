@@ -52,7 +52,7 @@ Dieses Python-Programm visualisiert EKG-Daten, die über einen Arduino (via COM-
 ## <span style="color: blue; font-weight: bold;">Voraussetzungen</span>
 - Python-Pakete: `pygame`, `pyserial`, `numpy` (`pip install pygame pyserial numpy`).
 - `beep.wav`-Datei im Skriptverzeichnis.
-- Arduino mit passendem Code für EKG-Datenübertragung.
+- Arduino mit passendem Code für EKG-Datenübertragung. (Mein Code ist beigelegt.)
 - Der Port muss COM6 sein!!!.
 
 ## <span style="color: blue; font-weight: bold;">Hinweise</span>
