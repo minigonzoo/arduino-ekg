@@ -1,4 +1,4 @@
-# arduino-eklg
+# arduino-ekg
 
 Das hier ist ein Python Code, womit ihr mit einem Arduino/ESP32/was auch immer und einem
 EKG Modul die Werte auslesen könnt. Diese werden dann anschaulich gemacht. 
