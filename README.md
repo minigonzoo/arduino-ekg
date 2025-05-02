@@ -17,6 +17,11 @@ Beim Start kommt:
 
 - Dann auf „Trotzdem ausführen“
 
+
+## <span style="color: blue; font-weight: bold;">COM-Port</span>
+
+- Der COM-Port ist im Code als COM6 deklariert. Prüfe, welcher deiner USB Schnittstellen COM6 ist (Meistens Frontplate USB Anschlüsse, das siehst du aber in Arduino oder im Geräte-Manager)
+
 # EKG-Visualisierungsprogramm
 
 Dieses Python-Programm visualisiert EKG-Daten, die über einen Arduino (via COM-Port) übertragen werden. Es bietet Funktionen zur Patienteneingabe, Rhythmusanalyse, akustischen/visuellen Warnungen und Speicherung von Aufnahmen als PNG-Dateien.
