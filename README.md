@@ -1,11 +1,6 @@
 # arduino-eklg
-An Python based program for the arduino ecg modul (German)
 
-Hi, mein Name ist Sami, ich bin 15 Jahre alt und hobby dev und interessierter der Medizin und Psychologie.
-
-Ich bedanke mich ersteinmal für den Download meines kleinen Scripts.
-
-Hier seht ihr etwa 2 Wochen Arbeit und Kopfschmerzen. Das hier ist ein Python Code, womit ihr mit einem Arduino/ESP32/was auch immer und einem
+Das hier ist ein Python Code, womit ihr mit einem Arduino/ESP32/was auch immer und einem
 EKG Modul die Werte auslesen könnt. Diese werden dann anschaulich gemacht. 
 
 Der Port muss COM6 sein!!!
