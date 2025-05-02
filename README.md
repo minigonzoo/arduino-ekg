@@ -5,6 +5,9 @@ EKG Modul die Werte auslesen könnt. Diese werden dann anschaulich gemacht.
 
 Der Port muss COM6 sein!!!
 
+Getestet habe ich das mit dem Arduino Uno und diesem Modul:
+https://www.amazon.de/dp/B0D8Q85P2M?ref=ppx_yo2ov_dt_b_fed_asin_title
+
 ## <span style="color: blue; font-weight: bold;">Windows-Sicherheit</span>
 
 Dadurch, dass ich kein Code Signing Zertifikat dafür kaufen werde, werdet ihr beim Ausführen die Mitteilung bekommen, dass euer Computer von Windows geschützt wurde.
