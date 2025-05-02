@@ -12,7 +12,7 @@ Dieses Python-Programm visualisiert EKG-Daten, die über einen Arduino (via COM-
 ## <span style="color: blue; font-weight: bold;">Funktionen</span>
 
 ### <span style="color: blue; font-weight: bold;">Datenübertragung</span>
-- EKG-Daten werden über einen COM-Port (Standard: `COM6`, anpassbar in Zeile 102: `port_name = "COM6"`) vom Arduino an das Python-Programm übertragen.
+- EKG-Daten werden über einen COM-Port (`COM6`) vom Arduino an das Python-Programm übertragen.
 - Die empfangenen numerischen Werte werden in ein EKG-Diagramm umgewandelt und in Echtzeit auf dem Bildschirm angezeigt.
 
 ### <span style="color: blue; font-weight: bold;">Patienteneingabe</span>
