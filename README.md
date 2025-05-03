@@ -86,3 +86,11 @@ Bitte nach einer FA direkt eine Nachricht schicken, damit ich es zuordnen kann.
 Viel Spaß damit
 
 Sami
+
+
+
+
+## <span style="color: blue; font-weight: bold;">To-Do</span>
+- Com-Port Selector
+- Sprache Auswählen
+- Shared Config
